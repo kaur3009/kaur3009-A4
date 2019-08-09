@@ -1,0 +1,8 @@
+{
+    "Dinner":
+    [
+        {"Name":"Karhi", "Price":"$7", "Calories":"200 cal"},
+        {"Name":"Chappati", "Price":"$5", "Calories":"100 cal"},
+        {"Name":"Salad", "Price":"$7", "Calories":"150 cal"}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Breakfast":
+    [
+        {"Name":"Bagel", "Price":"$3", "Calories":"200 cal"},
+        {"Name":"Tea", "Price":"$1", "Calories":"100 cal"},
+        {"Name":"Banana", "Price":"$3", "Calories":"200 cal"}
+    ]
+}
